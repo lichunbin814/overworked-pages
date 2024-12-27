@@ -12,8 +12,7 @@
 ---
 
 ## 🌐 線上瀏覽
-聽聽 ChatGPT 跟我說了什麼：
-👉 [過勞網站](https://lichunbin814.github.io/overworked-pages/tw)
+👉 [聽聽 ChatGPT 跟我說了什麼](https://lichunbin814.github.io/overworked-pages/tw)
 
 ---
 
